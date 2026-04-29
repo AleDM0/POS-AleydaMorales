@@ -1,0 +1,9 @@
+# Archivos temporales
+*.log
+*.tmp
+#carpetas de dependencias
+node_modules/
+__pycache__/
+
+#configuración local
+.env
