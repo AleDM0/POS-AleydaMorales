@@ -12,4 +12,4 @@ se esta implementando, en algunos solo es un avance
 se esta implementando en java, y en el servidor sql Maria db -> heidi sql para el almacenamiento de la base de datos.
 
 # Autor
-Yessica de los santos espinobarros & Aleyda Morales Diaz
+Yessica De Los Santos Espinobarros & Aleyda Morales Diaz
